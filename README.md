@@ -1,6 +1,7 @@
 ## Superstore Profit Growth Analysis & Visualisation
 
-### Bussiness Objectives 
+### Bussiness Objective
+### Framework 
 1. Seasonal Sales Performance Analysis
 2. Customer Shipping Method Preferences
 3. Top Performing Products and Categories by Profitability
