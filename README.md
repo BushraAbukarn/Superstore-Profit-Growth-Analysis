@@ -1,4 +1,4 @@
-## Superstore Profit Growth Analysis 
+## Superstore Profit Growth Analysis & Visualisation
 
 ### Bussiness Objectives 
 1. Seasonal Sales Performance Analysis
