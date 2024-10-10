@@ -1,4 +1,3 @@
-USE sales_data; 
 /*
 1. Seasonal Sales Performance Analysis
 2. Customer Shipping Method Preferences
