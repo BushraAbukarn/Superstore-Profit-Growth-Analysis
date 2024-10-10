@@ -1,10 +1,1 @@
-## Superstore Profit Growth Analysis & Visualisation
-
-### Bussiness Objective
-### Framework 
-1. Seasonal Sales Performance Analysis
-2. Customer Shipping Method Preferences
-3. Top Performing Products and Categories by Profitability
-4. Low-Performing Products and Categories by Profitability
-5. Revenue Analysis by State
-6. Profit Contribution by Customer Segment
+![MySQL](https://img.shields.io/badge/MySQL-red?logo=mysql&logoColor=white)
