@@ -3,7 +3,7 @@
 2. Customer Shipping Method Preferences
 3. Top Performing Products and Categories by Profitability
 4. Low-Performing Products and Sub-Categories by Profitability 
-Data Merge: Integrating Customer Information Across Tables Using Customer ID
+Data Merge: Integrating Customer Information Across Tables Using ID
 5. Revenue Analysis by State
 6. Top 5 highest-selling products in the region with the highest revenue
 7. Profit Contribution by Customer Segment 
