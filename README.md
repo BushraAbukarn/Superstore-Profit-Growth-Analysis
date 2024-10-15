@@ -4,7 +4,7 @@
 Bussiness Objective
 
 Framwork 
-![image](https://github.com/user-attachments/assets/5291a5d1-fe42-47f0-9250-1cdc3c8dac31)
+![image](https://github.com/user-attachments/assets/cf9d14e2-dbe3-4c12-b18b-2269d87fabf4)
 
 ![image](https://github.com/user-attachments/assets/f14dca90-5a96-46e5-aa80-f7c0e29e5760)
 
