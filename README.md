@@ -1,7 +1,8 @@
   ![image](https://github.com/user-attachments/assets/56b08150-1b92-4d5a-aecc-deb2011c78a6)
 
 Data Cleaning & Modification:
--	Utilized MySQL to clean, transform, and integrate datasets from Superstore sales, including the creation of aggregated tables for deeper insights. 
+-	Utilized MySQL to clean, transform, and integrate datasets from Superstore sales, including the creation of aggregated tables for deeper insights.
+  
 Business Objectives: 
 1.	Seasonal Sales Performance Analysis
 2.	Customer Shipping Method Preferences
