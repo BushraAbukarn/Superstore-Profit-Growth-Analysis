@@ -23,8 +23,8 @@ Utilized MySQL to clean, transform, and integrate datasets from Superstore sales
 
 ### Recommendations:
  
--	The business may need to focus on improving profits by controlling costs or reassessing its pricing strategy. Eliminate high-cost products to improve production efficiency like, Tables, Bookcase, and Supplies.
--	The business may consider offering enticing seasonal discounts on products for key occasions like Spring Break, Christmas, and Summer Vacation, as these seasons generally yield lower profits compared to Fall, helping to attract more customers. 
+-	Superstore may need to focus on improving profits by controlling costs or reassessing its pricing strategy. Eliminate high-cost products to improve production efficiency like, Tables, Bookcase, and Supplies.
+-	Superstore may consider offering enticing seasonal discounts on products for key occasions like Spring Break, Christmas, and Summer Vacation, as these seasons generally yield lower profits compared to Fall, helping to attract more customers. 
 
 
 ![image](https://github.com/user-attachments/assets/de4b8114-1200-45d5-aa3a-f4d98bd49121)
