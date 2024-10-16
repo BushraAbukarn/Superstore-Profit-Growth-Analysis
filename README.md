@@ -1,9 +1,9 @@
   ![image](https://github.com/user-attachments/assets/56b08150-1b92-4d5a-aecc-deb2011c78a6)
 
-Data Cleaning & Modification:
+### Data Cleaning & Modification:
 -	Utilized MySQL to clean, transform, and integrate datasets from Superstore sales, including the creation of aggregated tables for deeper insights.
   
-Business Objectives: 
+### Business Objectives: 
 1.	Seasonal Sales Performance Analysis
 2.	Customer Shipping Method Preferences
 3.	Top Performing Products and Categories by Profitability
@@ -13,7 +13,7 @@ Business Objectives:
 7.	Top 5 highest-selling products in the region with the highest revenue
 8.	Profit Contribution by Customer Segment
 
-Analysis: 
+### Analysis: 
 
 -	Between 2019 and 2022, the Superstore generated $2.29 million in revenue but only $283.35 thousand in profit, highlighting a significant gap between sales and profitability, particularly during peak sales periods. While sales show a consistent upward trend, the relatively slow growth in profits might be concerning.
 -	The majority of the customers preferred Standard Class shipping, suggesting that they prioritize cost saving over expedited delivery.
@@ -21,7 +21,7 @@ Analysis:
 -	Among the segments, Consumers bring the highest profit, followed by Corporate, with Home Office contributing the least.
 -	Over the four-year period, the Fall season was the most profitable season among the rest, indicating that Back-to-school, and Black Friday events have a significant influence on the profit.
 
-Recommendations:
+### Recommendations:
  
 -	The business may need to focus on improving profits by controlling costs or reassessing its pricing strategy. Eliminate high-cost products to improve production efficiency like, Tables, Bookcase, and Supplies.
 -	The business may consider offering enticing seasonal discounts on products for key occasions like Spring Break, Christmas, and Summer Vacation, as these seasons generally yield lower profits compared to Fall, helping to attract more customers. 
