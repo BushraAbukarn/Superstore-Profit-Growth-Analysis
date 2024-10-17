@@ -8,10 +8,9 @@ Utilized MySQL to clean, transform, and integrate datasets from Superstore sales
 2.	Customer Shipping Method Preferences
 3.	Top Performing Products and Categories by Profitability
 4.	Low-Performing Products and Sub-Categories by Profitability 
-5.	Data Merge: Integrating Customer Information Across Tables Using ID
-6.	Revenue Analysis by State
-7.	Top 5 highest-selling products in the region with the highest revenue
-8.	Profit Contribution by Customer Segment
+5.	Revenue Analysis by State
+6.	Top 5 highest-selling products in the region with the highest revenue
+7.	Profit Contribution by Customer Segment
 
 ### Analysis: 
 
