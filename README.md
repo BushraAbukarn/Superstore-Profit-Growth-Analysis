@@ -1,7 +1,7 @@
   ![image](https://github.com/user-attachments/assets/56b08150-1b92-4d5a-aecc-deb2011c78a6)
 
 ### Data Cleaning:
-Leveraged MySQL to manage missing and duplicate data, perform transformations, and integrate datasets from Superstore sales. Created aggregated tables to provide deeper insights and enhance data analysis.
+Leveraged MySQL to handle missing and duplicate data, perform transformations, and integrate datasets from Superstore sales. Created aggregated tables to provide deeper insights and enhance data analysis.
   
 ### Business Objectives: 
 1.	Seasonal Sales Performance Analysis
