@@ -34,6 +34,7 @@ Leveraged MySQL to handle missing and duplicate data, perform transformations, a
 
 4. Seasonal Promotions: Superstore should implement attractive seasonal discounts for key occasions, including Spring Break, Christmas, and Summer Vacation. These seasons typically experience lower profits compared to Fall, and targeted promotions can help draw in more customers.
 
+### Dashboards
 
 ![image](https://github.com/user-attachments/assets/de4b8114-1200-45d5-aa3a-f4d98bd49121)
 
